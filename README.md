@@ -1,4 +1,4 @@
-<img width="1389" height="765" alt="スクリーンショット 2025-08-12 6 53 44" src="https://github.com/user-attachments/assets/16c2746c-e049-457c-b7a7-b98bc63883c1" />
+<img width="1389" height="765" alt="スクリーンショット 2025-08-12 6 53 44" src="https://github.com/user-attachments/assets/16c2746c-e049-457c-b7a7-b98bc63883c1" /></br>
 ①卒業制作：旅行日記アプリ
 ②アプリの内容：以下の機能を実装したいと考えています。現時点では旅行の日記をつける部分のみ実装しました。
 ・旅行の日記をつける
